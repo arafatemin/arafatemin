@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://web-production-90d0.up.railway.app/](https://web-production-90d0.up.railway.app/)
 
-- 💬 Ask me about **Slenium, Jenkins, Django**
+- 💬 Ask me about **Selenium, Django**
 
 - 📫 How to reach me **jasurboy52@gmail.com**
 
