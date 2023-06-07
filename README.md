@@ -1,4 +1,3 @@
-![MasterHead](https://geekflare.com/wp-content/uploads/2022/07/What-Is-SDET.jpeg)
 <h1 align="center">Hi 👋, I'm Arafat Emin</h1>
 <h3 align="center">I'm a software development engineer in test and web developer</h3>
 
@@ -34,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerbati-61&" alt="aerbati-61" /></p>
 
-
+![MasterHead](https://geekflare.com/wp-content/uploads/2022/07/What-Is-SDET.jpeg)
