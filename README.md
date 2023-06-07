@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1800&t=st=1686163453~exp=1686164053~hmac=a0a63c4ff3e4429a519dafac6c85756734da76a3609c925aa0a720f58cc328a5)
 <h1 align="center">Hi 👋, I'm Arafat Emin</h1>
-<h3 align="center">I'm a software development engineer in testing and web developer</h3>
+<h3 align="center">I'm a software development engineer in test and web developer</h3>
 
 - 🔭 I’m currently working on Test Automation [Test Store](http://teststore.automationtesting.co.uk/)
 
