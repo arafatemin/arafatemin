@@ -7,17 +7,17 @@
 
 - The site I earn money by doing in my spare time [Bilnur](https://bilnur.biz/)
 
-- 🤝 I'm helping someone by making this site [My Notes]([https://web-production-90d0.up.railway.app/](https://sincerityachademy.up.railway.app/))
+- 🤝 I'm helping someone by making this site [My Notes](https://sincerityachademy.up.railway.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AERBATI-61](https://github.com/AERBATI-61)
 
-- 📝 I regularly write articles on [https://web-production-90d0.up.railway.app/]([https://web-production-90d0.up.railway.app/](https://sincerityachademy.up.railway.app/))
+- 📝 I regularly write articles on [https://web-production-90d0.up.railway.app/](https://sincerityachademy.up.railway.app/)
 
 - 💬 Ask me about **Selenium, Django**
 
 - 📫 How to reach me **jasurboy52@gmail.com**
 
-- 📄 Know about my experiences [https://web-production-90d0.up.railway.app/]([https://web-production-90d0.up.railway.app/](https://sincerityachademy.up.railway.app/))
+- 📄 Know about my experiences [https://web-production-90d0.up.railway.app/](https://sincerityachademy.up.railway.app/)
 
 - ⚡ Fun fact **I do sports regularly**
 
