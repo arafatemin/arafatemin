@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on Test Automation [Test Store](http://teststore.automationtesting.co.uk/)
 
-- 🌱 I’m currently learning **Cucumber**
-
 - The site I earn money by doing in my spare time [Bilnur](https://bilnur.biz/)
 
 - 🤝 I'm helping someone by making this site [My Notes](https://sincerityachademy.up.railway.app/)
