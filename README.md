@@ -7,7 +7,7 @@
 
 - 🤝 I'm helping someone by making this site [My Notes](https://sincerityachademy.up.railway.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AERBATI-61](https://github.com/AERBATI-61)
+- 👨‍💻 All of my projects are available at [arafatemin](https://github.com/arafatemin)
 
 - 📝 I regularly write articles on [SincerityAchademy](https://sincerityachademy.up.railway.app/)
 
