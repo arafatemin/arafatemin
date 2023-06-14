@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AERBATI-61](https://github.com/AERBATI-61)
 
-- 📝 I regularly write articles on [https://sincerityachademy.up.railway.app/](https://sincerityachademy.up.railway.app/)
+- 📝 I regularly write articles on [Sincerity](https://sincerityachademy.up.railway.app/)
 
 - 💬 Ask me about **Selenium, Django**
 
 - 📫 How to reach me **jasurboy52@gmail.com**
 
-- 📄 Know about my experiences [https://sincerityachademy.up.railway.app/](https://sincerityachademy.up.railway.app/)
+- 📄 Know about my experiences [Sincerity](https://sincerityachademy.up.railway.app/)
 
 - ⚡ Fun fact **I do sports regularly**
 
