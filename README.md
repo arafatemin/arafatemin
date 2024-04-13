@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Test Automation [Test Store](http://teststore.automationtesting.co.uk/)
 
-- The site I earn money by doing in my spare time [Bilnur](https://bilnur.biz/)
+- The site I earn money by doing in my spare time [Bilnur](https://yhhvak.com/)
 
 - 🤝 I'm helping someone by making this site [My Notes](https://sincerityachademy.up.railway.app/)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Selenium, Django**
 
-- 📫 How to reach me **jasurboy52@gmail.com**
+- 📫 How to reach me **receiverarafat@gmail.com**
 
 - 📄 Know about my experiences [SincerityAchademy](https://sincerityachademy.up.railway.app/)
 
