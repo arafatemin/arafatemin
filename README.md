@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [arafatemin](https://github.com/arafatemin)
 
-- 📝 I regularly write articles on [SincerityAchademy](https://arafatemin.com)
+- 📝 I regularly write articles on [ArafatEmin](https://arafatemin.com)
 
 - 💬 Ask me about **Selenium, Django**
 
 - 📫 How to reach me **receiverarafat@gmail.com**
 
-- 📄 Know about my experiences [SincerityAchademy](https://arafatemin.com)
+- 📄 Know about my experiences [ArafatEmin](https://arafatemin.com)
 
 - ⚡ Fun fact **I do sports regularly**
 
