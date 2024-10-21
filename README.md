@@ -5,17 +5,17 @@
 
 - The site I earn money by doing in my spare time [Yusuf Has Hacip](https://yhhvak.com/)
 
-- 🤝 I'm helping someone by making this site [My Notes](https://sincerityachademy.up.railway.app/)
+- 🤝 I'm helping someone by making this site [My Notes](https://arafatemin.com)
 
 - 👨‍💻 All of my projects are available at [arafatemin](https://github.com/arafatemin)
 
-- 📝 I regularly write articles on [SincerityAchademy](https://sincerityachademy.up.railway.app/)
+- 📝 I regularly write articles on [SincerityAchademy](https://arafatemin.com)
 
 - 💬 Ask me about **Selenium, Django**
 
 - 📫 How to reach me **receiverarafat@gmail.com**
 
-- 📄 Know about my experiences [SincerityAchademy](https://sincerityachademy.up.railway.app/)
+- 📄 Know about my experiences [SincerityAchademy](https://arafatemin.com)
 
 - ⚡ Fun fact **I do sports regularly**
 
