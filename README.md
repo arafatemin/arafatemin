@@ -7,8 +7,6 @@
 
 - 🤝 I'm helping someone by making this site [My Notes](https://arafatemin.com)
 
-- 👨‍💻 All of my projects are available at [arafatemin](https://github.com/arafatemin)
-
 - 📝 I regularly write articles on [ArafatEmin](https://arafatemin.com)
 
 - 💬 Ask me about **Selenium, Django**
