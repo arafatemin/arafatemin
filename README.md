@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Test Automation [Test Store](http://teststore.automationtesting.co.uk/)
 
-- The site I earn money by doing in my spare time [Mental And Rare Works]([https://mentalrare.com/])
+- The site I earn money by doing in my spare time [Mental And Rare Works](https://mentalrare.com/)
 
 - 🤝 I'm helping someone by making this site [My Notes](https://arafatemin.com)
 
